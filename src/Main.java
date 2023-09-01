@@ -365,6 +365,8 @@ public class Main {
         }
         System.out.println(countZero);
 
+        // --------------------------------------------------------------
+
         // Task 3
         int[] oddNumbersArray = new int[41];
 
